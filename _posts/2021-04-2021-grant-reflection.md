@@ -6,7 +6,7 @@ When I first wrote my abstract, I was initially planning to just map Ted Bundyâ€
 
 After being assigned this grant, I was very nervous and did not know what to expect. I had little understanding about what goes into creating a DH project and what steps are necessary to produce a successful one. For example, I had no idea that a budget was a crucial part to this project, but I learned that nothing can be done without it. Writing the grant one step at a time was definitely helpful because it gave me a chance to really understand the importance of each section. The peer reviews especially helped guide me in the right direction and I feel that my project overall benefited from the advice of my classmates. I knew that my work could be better, so I looked forward to receiving valuable feedback.
 
-*picture
+![Tweet](https://kaylachilders.github.io/KaylaChilBlogs/images/
 
 ## My Experience in Digital Humanities
 
