@@ -1,3 +1,5 @@
+# Grant Process and Reflection
+
 ## My Grant 
 
 For my grant assignment, I am creating a digital map, tracking the killing spree of the infamous Ted Bundy, and telling the stories of the women, whom he brutally murdered. The project will be called The Women of Ted Bundy. The site will consist of a mapping project as well as an interactive timeline displaying background information about each victim. I chose this topic because I have always been interested in true crime and the backgrounds of both the criminal and the victims. In recent years, the story of Ted Bundy has turned into an entertainment phenomenon, which got me thinking about serial killers in general and what place they have in our popular culture. In our society, notorious serial killers, especially Bundy, have been romanticized in the media. With this being said, the stories of the innocent victims are pushed into the background and often forgotten about. The purpose of my project is to bring the attention back to the victims by centering this site around their stories.
